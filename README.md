@@ -1,9 +1,3 @@
 # LABORATORIO-IAC-01
 
-BIENVENIDOS A TODOS GAAAAA
-HOY DESPLEGARE MI PAGUINA WEB
-"WEB01"
-
-hola ? prueba de commit
-
-NO SALE OÑOOOOOOOO PIPIPI   
+Trea de la semana 01 (con fe me sale) :D
